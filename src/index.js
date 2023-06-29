@@ -11,23 +11,3 @@ root.render(
     </Tooltip>
   </React>
 );
-
-
-// <button>
-// Write, edit and run HTML, CSS and JavaScript code online.
-// </button>
-// <div class="tooltip-top">  
-// <span class="tip tip-up"></span>
-// <p >
-// Our HTML editor updates the webview automatically in real-time as you write code.
-// </p>
-// </div>
-// <p class="tooltip-right">
-// Our HTML editor updates the webview automatically in real-time as you write code.
-// </p>
-// <p class="tooltip-left">
-// Our HTML editor updates the webview automatically in real-time as you write code.
-// </p>
-// <p class="tooltip-bottom">
-// Our HTML editor updates the webview automatically in real-time as you write code.
-// </p>
