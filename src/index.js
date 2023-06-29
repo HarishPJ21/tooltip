@@ -11,4 +11,3 @@ root.render(
     </Tooltip>
   </React.StrictMode>
 );
-
