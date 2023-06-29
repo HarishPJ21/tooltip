@@ -7,3 +7,61 @@
     background: linear-gradient(to right, black, rgb(98, 0, 255));
     width: 150px;
 }
+/*
+button {
+  margin: 20% 0% 0% 20% ;
+  position:absolute
+}
+
+
+.tooltip-top{
+  position: absolute;
+  background-color: red;
+  margin: 25% 0% 0% 20% ;
+  height:50px;
+  .tip {
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  background: transparent;
+  border: 10px solid red;
+  }
+  .tip-top {
+  top: -20px; 
+  margin-left:45%;
+  border-right-color: transparent;
+  border-left-color: transparent;
+  border-top-color: transparent;
+  }
+}
+.tooltip-right{
+  height:50px;
+  position: absolute;
+  background-color: green;
+  margin: 20% 0% 0% 50% ;
+  .tip {
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  background: transparent;
+  border: 10px solid blue;
+  }
+  .tip-right {
+  left: -20px;
+  margin-top:5px;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+  border-top-color: transparent;
+  }
+}
+.tooltip-left{
+  position: absolute;
+  background-color: red;
+  margin: 50% 0 0 50% ;
+}
+.tooltip-bottom{
+  position: absolute;
+  background-color: red;
+  margin: 50% 0 0 50% ;
+}
+*/
