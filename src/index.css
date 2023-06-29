@@ -1,12 +1,4 @@
-/* .tooltip{
-    position: absolute;
-    left: 50%;
-    top: 50%;
-}
-.tooltip-box{
-    background: linear-gradient(to right, black, rgb(98, 0, 255));
-    width: 150px;
-} */
+
 body{
   background: linear-gradient(to right, rgba(155, 44, 230, 0.767), rgba(6, 1, 14, 0.849));
 }
