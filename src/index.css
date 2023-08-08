@@ -1,6 +1,6 @@
 
 body{
-  background: linear-gradient(to right, rgba(155, 44, 230, 0.767), rgba(6, 1, 14, 0.849));
+  background: linear-gradient(to right, rgba(10, 6, 218, 0.767), rgba(6, 1, 14, 0.849));
 }
 button {
   margin: 20% 0% 0% 50% ;
@@ -17,6 +17,8 @@ button {
   background-color: rgb(238, 255, 0);
   margin: 22% 0% 0% 46%;
   height:50px;
+  text-align: center;
+  /* padding-top:20px; */
   width: 160px;
   .tip {
   width: 0px;
