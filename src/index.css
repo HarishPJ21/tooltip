@@ -12,6 +12,7 @@ button {
   padding: 5% 0% 0% 50% ;
 }
 
+/* class to show when the bottom is selected */
 .tooltip-bottom{
   position: absolute;
   background-color: rgb(238, 255, 0);
@@ -35,6 +36,9 @@ button {
   border-top-color: transparent;
   }
 }
+
+
+/* class to show when the right is selected */
 .tooltip-right{
   height:50px;
   position: absolute;
@@ -55,6 +59,9 @@ button {
   border-top-color: transparent;
   }
 }
+
+
+/* class to show when the left is selected */
 .tooltip-left{
   height:50px;
   position: absolute;
@@ -75,6 +82,9 @@ button {
   border-top-color: transparent;
   }
 }
+
+
+/* class to show when the top is selected */
 .tooltip-top{
   position: absolute;
   background-color: rgb(255, 145, 0);
